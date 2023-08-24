@@ -72,9 +72,15 @@ Conclusión y Análisis Final:
 
 Cómo queda demostrado en el EDA, las inversiones en criptomonedas que son menos estables proporcionan una buena inversión a corto plazo en períodos de días o semanas e incluso mes a mes, pero es muy riesgosa en períodos largos como de año a año. Las respaldadas en oro no solo muestran ser más estables en períodos más largos de tiempo sino que también pueden proporcionar ganancias sustanciales, aunque menores en corto tiempo.  Mientras que las estables, como las respaldadas en dólares estadounidenses pueden ser una alternativa de inversión segura en países con alto grado de inestabilidad financiera e inflación de la moneda local.
 Además queda demostrado que es un mercado en crecimiento y en donde las legislaciones nacionales e internacionales todavía no las encuadran en su marco jurídico, lo que sumado a la confianza creciente (en general) del mercado global, proporcionan una buena alternativa de inversión.
-En el EDA también se detalla la funcionalidad de cada tipo de moneda, de acuerdo a que tipo de resultado se espera de la inversión.
+
+
+En el EDA también se detalla como KPI la funcionalidad de cada tipo de moneda, de acuerdo a que tipo de resultado se espera de la inversión.
 Es así que  en el ranking proporcionado por coingecko.com, observamos que las criptomonedas que destacan, son las respaldadas por oro, junto con Eos, Frax y en menor medida Uniswap. 
+
+
 En la Capitalización de Mercado observamos mejor salud en Bitcoin, Ethereum y Tether, seguido en menor medida por Binancecoin y Usd-Coin. 
 Finalmente en el Volumen de Negociación actual, observamos como Tether destaca por lejos seguida por Bitcoin, Ethereum y en menor medida, Usd-Coin y Binancecoin. El resto no muestra Volumen relevante.
+
+
 Otro KPI utilizado en el EDA es para obtener la Criptomoneda con la Mayor Capitalización de Mercado. Esto nos muestra que Bitcoin es actualmente la criptomoneda con la mayor capitalización de mercado, seguida de Ethereum, Tether y Binance-Coin.
 
